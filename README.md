@@ -1,4 +1,4 @@
 # Hello-World
 
 
-# I'm a nex user of GitHub
+# I'm a new user of GitHub
